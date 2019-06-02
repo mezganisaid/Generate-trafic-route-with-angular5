@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Update and get dependencies
 
 Perform a basic update to the current stable release of the core framework and CLI by running the following command.
+
 ng update @angular/cli @angular/core
 
 ## Development server
